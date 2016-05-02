@@ -5,3 +5,6 @@ function TotalPayer(rest)
     var z= 0 + rest + x;
     document.form1.apayer.value = z;
 } 
+
+
+OUUUUUUUUUUUUUULOUUUUUUUUUUUULOUUUUUUUUUUU
